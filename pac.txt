@@ -8,3 +8,4 @@
 ||sex.ocm
 twitter.com
 ||telegram.org
+||facebook.com
