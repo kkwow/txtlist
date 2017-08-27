@@ -6,6 +6,6 @@
 ||google.com.hk
 ||youtube.com
 ||sex.ocm
-
+twitter.com
 ||telegram.org
 ||facebook.com
