@@ -1,0 +1,7 @@
+[AutoProxy]
+!abc
+||2dbook.com
+
+!me
+||google.com
+||google.com.hk
