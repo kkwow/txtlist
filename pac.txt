@@ -1,6 +1,7 @@
 [AutoProxy]
 !abc
 ||2dbook.com
+
 !me
 ||google.com
 ||google.com.hk
@@ -9,3 +10,4 @@
 ||twitter.com
 ||telegram.org
 ||facebook.com
+||twimg.com
