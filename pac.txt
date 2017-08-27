@@ -1,7 +1,10 @@
 [AutoProxy]
 !abc
 ||2dbook.com
-
 !me
 ||google.com
 ||google.com.hk
+||youtube.com
+||sex.ocm
+twitter.com
+||telegram.org
