@@ -3,11 +3,20 @@
 ||2dbook.com
 
 !me
-||google.com
-||google.com.hk
-||youtube.com
-||sex.ocm
 ||twitter.com
 ||telegram.org
 ||facebook.com
 ||twimg.com
+
+||google.com
+||google.com.hk
+||googlevideo.com
+||googlevideo.com
+||youtube.com
+||ytimg.com
+||ggpht.com
+
+
+
+!sex
+||sex.ocm
