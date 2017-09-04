@@ -26,3 +26,4 @@
 
 !ad
 @@||soso.com
+@@||sogou.com
