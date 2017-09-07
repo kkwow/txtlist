@@ -19,6 +19,7 @@
 
 ||amazonaws.com
 ||medium.com
+||vultr.com
 
 
 !sex
