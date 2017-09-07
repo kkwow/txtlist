@@ -8,6 +8,7 @@
 ||telegram.org
 ||facebook.com
 ||twimg.com
+||t.co
 
 ||google.com
 ||google.com.hk
