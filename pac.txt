@@ -13,6 +13,7 @@
 ||google.com
 ||google.com.hk
 ||google.co.kr
+||google.ca
 ||googlevideo.com
 ||googlevideo.com
 ||youtube.com
