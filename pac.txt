@@ -22,6 +22,7 @@
 
 ||amazonaws.com
 ||medium.com
+||wordpress.com
 ||vultr.com
 ||instagram.com
 
