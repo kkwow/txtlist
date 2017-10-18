@@ -21,6 +21,7 @@
 ||ggpht.com
 ||googleapis.com
 ||dropbox.com
+||dropboxstatic.com
 
 ||amazonaws.com
 ||medium.com
