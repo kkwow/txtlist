@@ -32,6 +32,7 @@
 ||wordpress.com
 ||vultr.com
 ||instagram.com
+||cdninstagram.com
 ||githubusercontent.com
 
 ||github.com
