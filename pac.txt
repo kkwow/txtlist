@@ -16,10 +16,13 @@
 ||google.ca
 ||googlevideo.com
 ||googlevideo.com
-||youtube.com
-||ytimg.com
 ||ggpht.com
 ||googleapis.com
+||gmail.com
+
+||youtube.com
+||ytimg.com
+
 ||dropbox.com
 ||dropboxstatic.com
 
@@ -28,7 +31,8 @@
 ||wordpress.com
 ||vultr.com
 ||instagram.com
-
+||githubusercontent.com
+||github.com
 
 !sex
 ||sex.ocm
