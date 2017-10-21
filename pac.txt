@@ -19,6 +19,7 @@
 ||ggpht.com
 ||googleapis.com
 ||gmail.com
+||googleusercontent.com
 
 ||youtube.com
 ||ytimg.com
@@ -32,6 +33,7 @@
 ||vultr.com
 ||instagram.com
 ||githubusercontent.com
+
 ||github.com
 
 !sex
