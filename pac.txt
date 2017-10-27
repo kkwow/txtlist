@@ -34,8 +34,8 @@
 ||instagram.com
 ||cdninstagram.com
 ||githubusercontent.com
-
 ||github.com
+||t.me
 
 !sex
 ||sex.ocm
