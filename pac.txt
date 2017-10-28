@@ -36,6 +36,7 @@
 ||githubusercontent.com
 ||github.com
 ||t.me
+||tumblr.com
 
 !sex
 ||sex.ocm
