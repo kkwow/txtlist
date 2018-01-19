@@ -7,6 +7,7 @@
 ||twitter.com
 ||telegram.org
 ||facebook.com
+||facebook.net
 ||twimg.com
 ||t.co
 
@@ -26,8 +27,6 @@
 ||google.de
 ||google.pl
 ||google.it
-
-
 
 ||youtube.com
 ||ytimg.com
