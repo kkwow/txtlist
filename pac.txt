@@ -25,6 +25,7 @@
 ||google.es
 ||google.de
 ||google.pl
+||google.it
 
 
 
