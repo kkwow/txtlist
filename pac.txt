@@ -23,6 +23,10 @@
 ||goo.gl
 ||google.fr
 ||google.es
+||google.de
+||google.pl
+
+
 
 ||youtube.com
 ||ytimg.com
