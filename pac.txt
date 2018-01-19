@@ -21,6 +21,8 @@
 ||gmail.com
 ||googleusercontent.com
 ||goo.gl
+||google.fr
+||google.es
 
 ||youtube.com
 ||ytimg.com
