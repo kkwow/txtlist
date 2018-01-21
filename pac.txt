@@ -8,6 +8,7 @@
 ||telegram.org
 ||facebook.com
 ||facebook.net
+||fbcdn.net
 ||twimg.com
 ||t.co
 
