@@ -28,6 +28,7 @@
 ||google.de
 ||google.pl
 ||google.it
+||wikipedia.org
 
 ||youtube.com
 ||ytimg.com
