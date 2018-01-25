@@ -11,6 +11,7 @@
 ||fbcdn.net
 ||twimg.com
 ||t.co
+||t.me
 
 ||google.com
 ||google.com.hk
