@@ -50,6 +50,7 @@
 ||crwdcntrl.net
 ||big.one
 ||spotify.com
+||tokenmarket.net
 
 !sex
 ||sex.ocm
