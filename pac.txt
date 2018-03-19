@@ -51,6 +51,7 @@
 ||big.one
 ||spotify.com
 ||tokenmarket.net
+||getsync.com
 
 !sex
 ||sex.ocm
