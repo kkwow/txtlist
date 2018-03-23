@@ -52,6 +52,7 @@
 ||spotify.com
 ||tokenmarket.net
 ||getsync.com
+||twitch.tv
 
 !sex
 ||sex.ocm
