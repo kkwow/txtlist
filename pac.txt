@@ -53,6 +53,7 @@
 ||tokenmarket.net
 ||getsync.com
 ||twitch.tv
+||binance.com
 
 !sex
 ||sex.ocm
