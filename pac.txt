@@ -54,6 +54,7 @@
 ||getsync.com
 ||twitch.tv
 ||binance.com
+||zb.com
 
 !sex
 ||sex.ocm
