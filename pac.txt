@@ -58,6 +58,11 @@
 ||pinterest.com
 ||pinimg.com
 
+!microsoft
+||microsoft.com
+||live.com
+
+
 !sex
 ||sex.ocm
 ||sexinsex.net
