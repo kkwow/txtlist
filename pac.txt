@@ -59,6 +59,7 @@
 ||pinimg.com
 ||500px.com
 ||500px.org
+||vsco.co
 
 !microsoft
 ||microsoft.com
