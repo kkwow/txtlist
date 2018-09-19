@@ -29,6 +29,7 @@
 ||google.de
 ||google.pl
 ||google.it
+||gstatic.com
 ||wikipedia.org
 
 ||youtube.com
