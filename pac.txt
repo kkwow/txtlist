@@ -33,6 +33,7 @@
 ||wikipedia.org
 
 ||youtube.com
+||youtu.be
 ||ytimg.com
 
 ||dropbox.com
