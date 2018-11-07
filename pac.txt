@@ -62,6 +62,7 @@
 ||500px.com
 ||500px.org
 ||vsco.co
+||steamcommunity.com
 
 !microsoft
 ||microsoft.com
