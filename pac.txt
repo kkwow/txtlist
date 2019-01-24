@@ -2,6 +2,7 @@
 !abc
 ||2dbook.com
 ||outlook.com
+||bing.com
 
 !me
 ||twitter.com
