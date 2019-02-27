@@ -1,3 +1,2 @@
 [AutoProxy]
 ||btbtdy.tv
-||btbtt.co
