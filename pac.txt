@@ -7,3 +7,4 @@
 ||getpocket.com
 ||twitch.tv
 ||ttvnw.net
+||tmdb.org
