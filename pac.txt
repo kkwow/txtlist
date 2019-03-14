@@ -1,0 +1,10 @@
+[AutoProxy]
+||btbtdy.tv
+||btbtt.co
+||ip38.com
+||maying.co
+||ioliu.cn
+||getpocket.com
+||twitch.tv
+||ttvnw.net
+||tmdb.org
