@@ -1,2 +1,2 @@
 # txtlist
-SwitchyOmega and ss
+test
