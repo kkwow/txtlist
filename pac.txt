@@ -8,3 +8,4 @@
 ||twitch.tv
 ||ttvnw.net
 ||tmdb.org
+||name.com
